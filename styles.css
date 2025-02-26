@@ -1,0 +1,7 @@
+/*Diego Quintos Cabeza-21200625*/
+#color-box {
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+    border: 1px solid #ccc;
+}
